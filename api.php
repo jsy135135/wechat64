@@ -1,4 +1,5 @@
 <?php
+echo 'this is 2 function';
 echo 'this is new function';
 /**
  * wechat php test
